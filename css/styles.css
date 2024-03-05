@@ -33,3 +33,16 @@ ul{
 img{
      width: 500px;
 }
+div {
+    background-color: aliceblue;
+    padding: 50px;
+    width: 930px;
+    margin: 0 auto;
+    text-align: center;
+}
+#paragrafo{
+    color: palevioletred
+}
+.paragrafo-especial{
+    color: palevioletred;
+}
