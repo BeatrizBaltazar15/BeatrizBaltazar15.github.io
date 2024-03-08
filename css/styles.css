@@ -23,7 +23,7 @@ p{
 }
 
 ol{
-    font-size: 25px;
+    font-size: 20px;
     text-align: center;
 }
 ul{
@@ -45,4 +45,19 @@ div {
 }
 .paragrafo-especial{
     color: palevioletred;
+}
+body{
+    background-color: lavender;
+}
+li{
+    list-style: none;
+}
+a{
+    background-color: black;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+    padding: 8px 15px;
+    border-radius: 20px;
 }
