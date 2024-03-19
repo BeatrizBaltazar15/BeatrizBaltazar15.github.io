@@ -62,6 +62,7 @@ a{
     color: rgb(167, 158, 158);
     padding: 8px 15px;
     border-radius: 20px;
+    align-items: center;
 }
 a:hover{
     color:rgb(206, 84, 104)
