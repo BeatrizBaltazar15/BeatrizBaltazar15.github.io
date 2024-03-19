@@ -35,7 +35,7 @@ img{
      width: 500px;
 }
 div {
-    background-color: aliceblue;
+    background-color: rgb(212, 234, 255);
     padding: 50px;
     width: 930px;
     margin: 0 auto;
@@ -59,7 +59,25 @@ a{
     font-size: 14px;
     font-weight: bold;
     text-decoration: none;
-    color: white;
+    color: rgb(167, 158, 158);
     padding: 8px 15px;
     border-radius: 20px;
 }
+a:hover{
+    color:rgb(206, 84, 104)
+}
+li{
+    display: : inline
+    margin-left: 10px;
+}
+a{
+    font-size: 14px;
+    text-decoration: none;
+    color: #fff;
+}
+/*body{
+    background-image: url('/img/imgg.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}*/
