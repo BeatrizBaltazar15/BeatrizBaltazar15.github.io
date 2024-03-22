@@ -1,5 +1,5 @@
 h1 {
-    color: lightseagreen;
+    color:rgb(84, 84, 153);
     font-family: 'Courier New', Courier, monospace ;
     font-size: 30px;
     text-align: center;
@@ -7,14 +7,14 @@ h1 {
     border-radius: 1000px;
 }
 h2{
-    color: lightseagreen;
+    color: rgb(84, 84, 153);
 }
 h3{
-    color: lightseagreen;
+    color: rgb(84, 84, 153);
 }
 
 a{
-    color:red;
+    color:rgb(84,84,153);
 }
 
 p{
@@ -43,10 +43,10 @@ div {
     
 }
 #paragrafo{
-    color: palevioletred
+    color: rgb(84,84,153)
 }
 .paragrafo-especial{
-    color: palevioletred;
+    color: rgb(84,84,153);
 }
 body{
     background-color: lavender;
@@ -65,7 +65,7 @@ a{
     align-items: center;
 }
 a:hover{
-    color:rgb(206, 84, 104)
+    color:rgb(84, 84, 153)
 }
 li{
     display: : inline
@@ -75,6 +75,7 @@ a{
     font-size: 14px;
     text-decoration: none;
     color: #fff;
+    align-items:  center;
 }
 /*body{
     background-image: url('/img/imgg.jpg');
@@ -82,3 +83,4 @@ a{
     background-position: center;
     background-size: 100%;
 }*/
+
