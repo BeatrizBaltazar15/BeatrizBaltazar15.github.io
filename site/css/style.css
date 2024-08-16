@@ -85,3 +85,13 @@ a{
     align-items:  center;
 }
 
+table{
+    border-collapse: collapse;
+    border: solid black;
+    border-collapse: separate;
+    text-align: center;
+    margin: auto;
+}
+td , th{
+    border: solid black;
+}
