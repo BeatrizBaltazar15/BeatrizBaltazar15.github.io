@@ -12,7 +12,7 @@ h1 {
 }
 
 h3{
-    color: rgb(236, 10, 10);
+    color: rgb(10, 33, 236);
 }
 
 a{
@@ -34,10 +34,10 @@ ul{
     text-align: center;
 }
 img{
-     width: 380px;
+     width: 400px;
 }
 img{
-    width: 380px;
+    width: 400px;
 }
 div {
     background-color: rgb(212, 234, 255);
@@ -94,4 +94,11 @@ table{
 }
 td , th{
     border: solid black;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace ;
+    font-size: 30px;
+    text-align: center;
+    border: solid 10px black;
+    border-radius: 1000px;
 }
