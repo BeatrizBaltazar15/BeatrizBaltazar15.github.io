@@ -1,8 +1,15 @@
+body{
+    height: 100vh;
+    width: 100vw;
+    margin: 0px;
+}
 img{
         width: 70vw;
         max-width: 400px;
         align-items: center;
         height: 520px;
+        border-radius: 20px;
+        margin-left:5px ;
 
 
 }
@@ -11,9 +18,20 @@ h1 {
     font-family: 'Courier New', Courier, monospace ;
     font-size: 30px;
     text-align: center;
-    border: solid 10px rgb(255, 5, 213);
-    border-radius: 1000px;
+    border: solid 3px rgb(255, 5, 213);
+    border-radius: 10px;
+    width: 30vw;
+
+
 }
+
+.center-h1 {
+    display: flex;
+    justify-content: center;
+    padding: 0px;
+}
+
+
 p{
     color: white;
     text-align: center;
@@ -22,10 +40,11 @@ p{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .Beatriz{
-    align-items: center;
+
     text-align: center;
 }
- div {
+
+div {
     color: white;
     background-color: rgb(0, 0, 0);
     padding: 50px;
@@ -36,4 +55,40 @@ p{
 .foto{
     width: 30%;
     height: 30%;
+}
+
+.imagens{
+    
+}
+#testequadrado{
+    background-color: brown;
+    height: 100px;
+    width: 100px;
+    /*border-top: 10px double white;
+    border-left: 10px .+;
+    border-right:5px ;
+    border-bottom: 5px;
+
+*/
+}
+.link{
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 20px ;
+    color: rgb(0, 0, 0);
+    background-color:rgb(255, 255, 255);
+    padding: 5px;
+    border-radius: 20px;
+    margin-top: 150px;
+    transition: 0.6s;
+}
+.link:hover{
+    background-color: rgba(255, 181, 243, 0.74);
+    padding: 7px;
+    font-size: 120%;
+    transition: 0.6s;
+    color: rgb(0, 0, 0);
+}
+nav{
+    margin-top: 15px;
 }
