@@ -95,6 +95,7 @@ nav{
 .foto{
     height: 150px;
     width: 150px;
+<<<<<<< HEAD
 }
 table{
     border-collapse: collapse;
@@ -132,4 +133,6 @@ text-align: center;
 list-style: none;
 border: solid 3px rgb(255, 5, 213);
 border-radius: 10px;
+=======
+>>>>>>> 6a63488fb5e33f3ea4c890a8990a215e018b2b96
 }
