@@ -57,9 +57,8 @@ div {
     height: 30%;
 }
 
-.imagens{
+
     
-}
 #testequadrado{
     background-color: brown;
     height: 100px;
@@ -95,7 +94,6 @@ nav{
 .foto{
     height: 150px;
     width: 150px;
-<<<<<<< HEAD
 }
 table{
     border-collapse: collapse;
@@ -108,31 +106,39 @@ td , th{
     border: solid rgb(255, 249, 249);
 }
 .eu{
-    width:48%;
+    width:23%;
     /* height:30%; */
     margin:0%;
     border-radius: 100%;
     height: 50%;
     
 
-   
-
-
 }
 
 .imagens {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
     margin: 0 0 0 0;
     border: none;
     padding: 0 0 0 0;
-    width: 50%;
+    width: 100%;
     height: 30%;
+
 }
+
 ol{
 font-size: 20px;
 text-align: center;
 list-style: none;
 border: solid 3px rgb(255, 5, 213);
 border-radius: 10px;
-=======
->>>>>>> 6a63488fb5e33f3ea4c890a8990a215e018b2b96
+}
+
+#imagem{
+    padding: 50px;
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
 }
